@@ -1,0 +1,2 @@
+# Minimo
+Simple blog layout.
